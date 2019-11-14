@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[563],{3151:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a=i(n(0)),u=i(n(131));function i(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return a.default.createElement(u.default,{id:"one-initial-avatar",initials:"J",alt:"user"})}}}]);
+//# sourceMappingURL=563-cac5667d6335c4b40061.js.map

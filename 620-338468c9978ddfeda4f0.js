@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[620],{3426:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o=a(n(0)),u=a(n(1046));function a(e){return e&&e.__esModule?e:{default:e}}var l=function(){return o.default.createElement(u.default,{onPageChange:function(e){return console.log(e)},selectedPage:1,totalCount:2234,itemCountPerPage:20})};t.default=l}}]);
+//# sourceMappingURL=620-338468c9978ddfeda4f0.js.map

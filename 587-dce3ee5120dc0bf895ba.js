@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[587],{3202:function(e,d,t){"use strict";Object.defineProperty(d,"__esModule",{value:!0}),d.default=void 0;var a=u(t(0)),n=u(t(902));function u(e){return e&&e.__esModule?e:{default:e}}d.default=function(){return a.default.createElement(n.default,{id:"deceased-demographics-no-label",deceasedDate:"March 12, 2017"})}}}]);
+//# sourceMappingURL=587-dce3ee5120dc0bf895ba.js.map

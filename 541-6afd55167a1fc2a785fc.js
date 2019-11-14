@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[541],{3113:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var u=o(n(0)),a=o(n(47)),l=o(n(281));function o(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return u.default.createElement(l.default,null,"FakeLink Action",u.default.createElement(a.default,{text:"Button Action"}))}}}]);
+//# sourceMappingURL=541-6afd55167a1fc2a785fc.js.map
