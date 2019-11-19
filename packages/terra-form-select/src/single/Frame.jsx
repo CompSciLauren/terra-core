@@ -482,6 +482,7 @@ class Frame extends React.Component {
       input: this.input,
       select: this.select,
       clearOptionDisplay,
+      refCallback: this.setSelectMenuRef,
     };
 
     return (
@@ -532,7 +533,7 @@ class Frame extends React.Component {
             refCallback={(ref) => { this.dropdown = ref; }}
             style={FrameUtil.dropdownStyle(dropdownAttrs, this.state)} // eslint-disable-line react/forbid-component-props
           >
-            <Menu setSelectMenuRef={this.setSelectMenuRef} {...menuProps}>
+            <Menu {...menuProps}>
               {children}
             </Menu>
           </Dropdown>
